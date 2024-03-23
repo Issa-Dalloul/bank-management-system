@@ -1,0 +1,7 @@
+.main {
+  background-image: url(../image/banking-finance-concept-illustration_387612-169.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh; /* Adjust to your preferred height */
+  width: 100vw; /* Set to 100% for full width, adjust as needed */
+}

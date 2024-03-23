@@ -1,0 +1,37 @@
+/* Styling specific to the About Us page */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section {
+    margin-top: 30px;
+}
+
+.about-section h2 {
+    color: #333;
+}
+
+.about-section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.about-section h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.about-section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.about-section li {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #777;
+}
